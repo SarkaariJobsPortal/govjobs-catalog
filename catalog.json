@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T07:27:31Z",
+  "generatedAt": "2026-08-26T10:22:28Z",
   "sourceRun": "govjobs-catalog-2026-08-26-live",
   "jobs": [
     {
@@ -29,85 +29,7 @@
       "sourceType": null,
       "notificationNumber": "12/2026/CHQ/DR-CBT",
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
-    },
-    {
-      "id": "psu-airports-authority-of-india-senior-2026-09",
-      "title": "Senior ...",
-      "organization": "Airports Authority of India",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": "2026-08-08",
-      "applicationEnd": "2026-09-07",
-      "status": "OPEN",
-      "sourceUrl": "https://www.instagram.com/reel/DSwkFjCkZ15?hl=en",
-      "officialUrl": null,
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
-    },
-    {
-      "id": "psu-airports-authority-of-india-manager-junior-executive-2026-09",
-      "title": "Manager, Junior Executive",
-      "organization": "Airports Authority of India",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "OFFICER",
-        "ADMINISTRATIVE"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": true,
-      "salary": null,
-      "vacancies": 389,
-      "applicationStart": "2026-08-08",
-      "applicationEnd": "2026-09-07",
-      "status": "OPEN",
-      "sourceUrl": "https://www.sarkariresult.com/2026/aai-manager-junior-executive-july26",
-      "officialUrl": null,
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
-    },
-    {
-      "id": "psu-aai-airport-authority-of-india-recruitment-2026-09",
-      "title": "Airport authority of India recruitment",
-      "organization": "AAI",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": "2026-08-08",
-      "applicationEnd": "2026-09-07",
-      "status": "OPEN",
-      "sourceUrl": "https://www.instagram.com/reel/DbGi3xhPG47",
-      "officialUrl": "http://aai.aero",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "psu-airports-authority-of-india-airports-authority-of-india-recruitment--2026-09",
@@ -137,35 +59,7 @@
       "sourceType": null,
       "notificationNumber": null,
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
-    },
-    {
-      "id": "psu-indian-oil-corporation-limited-iocl-recruitment-2026-out-for-470-execut-2026-09",
-      "title": "IOCL Recruitment 2026 Out for 470 Executive Posts, Apply ...",
-      "organization": "Indian Oil Corporation Limited",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL",
-        "OFFICER"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 470,
-      "applicationStart": "2026-08-14",
-      "applicationEnd": "2026-09-03",
-      "status": "OPEN",
-      "sourceUrl": "https://www.adda247.com/engineering-jobs/iocl-recruitment-2026",
-      "officialUrl": "https://iocl.com",
-      "sourceType": null,
-      "notificationNumber": "IOCL/CO-HR/Rectt/2026/01",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "psu-iocl-iocl-executive-recruitment-2026-notifica-2026-09",
@@ -184,7 +78,7 @@
       "location": [],
       "isAllIndia": null,
       "salary": {
-        "text": "₹30,000–₹50,000",
+        "text": "\u20b930,000\u2013\u20b950,000",
         "minMonthly": 30000
       },
       "vacancies": 470,
@@ -196,34 +90,7 @@
       "sourceType": null,
       "notificationNumber": null,
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
-    },
-    {
-      "id": "psu-indian-oil-corporation-limited-recruitment-of-executives-in-indian-oil--2026-09",
-      "title": "recruitment of executives in indian oil corporation limited through ...",
-      "organization": "Indian Oil Corporation Limited",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "OFFICER"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": true,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": "2026-08-14",
-      "applicationEnd": "2026-09-03",
-      "status": "OPEN",
-      "sourceUrl": "https://iocl.com/admin/img/UploadedFiles/LatestJobOpening/Files/DetailedAd14082026.pdf",
-      "officialUrl": "https://iocl.com/admin/img/UploadedFiles/LatestJobOpening/Files/DetailedAd14082026.pdf",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "psu-iocl-trade-technician-graduate-apprentice-2026-09",
@@ -253,7 +120,7 @@
       "sourceType": null,
       "notificationNumber": "IOCL/MKTG/NR/APPR/2025-26/2",
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "psu-indian-oil-corporation-ltd-iocl-recruitment-2026-latest-vacancies-a-unknown",
@@ -280,7 +147,7 @@
       "sourceType": null,
       "notificationNumber": null,
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "banking-state-bank-of-india-probationary-officers-unknown",
@@ -308,7 +175,7 @@
       "sourceType": null,
       "notificationNumber": null,
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "banking-state-bank-of-india-sbi-clerk-apply-online-2026-started-at-s-2026-08",
@@ -336,7 +203,7 @@
       "sourceType": null,
       "notificationNumber": null,
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "banking-state-bank-of-india-sbi-clerk-junior-associate-customer-supp-2026-08",
@@ -367,7 +234,7 @@
       "sourceType": null,
       "notificationNumber": "CRPD/CR/2026-27/17",
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "banking-state-bank-of-india-sbi-clerk-2026-08",
@@ -386,7 +253,7 @@
       "location": [],
       "isAllIndia": true,
       "salary": {
-        "text": "The starting Basic Pay is ₹ 19,900.00 (₹17,900.00 plus two advance increments admissible to graduates)",
+        "text": "The starting Basic Pay is \u20b9 19,900.00 (\u20b917,900.00 plus two advance increments admissible to graduates)",
         "minMonthly": 19900
       },
       "vacancies": null,
@@ -398,7 +265,7 @@
       "sourceType": null,
       "notificationNumber": null,
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "banking-state-bank-of-india-new-home-careers-unknown",
@@ -423,7 +290,7 @@
       "sourceType": null,
       "notificationNumber": null,
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     },
     {
       "id": "banking-state-bank-of-india-junior-associate-careers-unknown",
@@ -450,7 +317,7 @@
       "sourceType": null,
       "notificationNumber": null,
       "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T07:27:31Z"
+      "lastVerifiedAt": "2026-08-26T10:22:28Z"
     }
   ]
 }
