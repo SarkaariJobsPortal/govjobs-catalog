@@ -1,18 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T11:52:13Z",
-  "sourceRun": "govjobs-catalog-2026-08-26-live-groq",
+  "generatedAt": "2026-08-27T08:55:40Z",
+  "sourceRun": "govjobs-catalog-2026-08-27-live-scheduled",
   "jobs": [
     {
-      "id": "psu-airports-authority-of-india-aai-aai-recruitment-2026-out-for-389-vacancy-2026-09",
+      "id": "psu-airports-authority-of-india-aai-recruitment-2026-out-for-389-vacancy-2026-09",
       "title": "AAI Recruitment 2026 Out for 389 Vacancy (Manager and Junior Executive), Notification PDF, Apply Online",
-      "organization": "Airports Authority of India (AAI)",
+      "organization": "Airports Authority of India",
       "sector": [
         "PSU"
       ],
-      "jobType": [
-        "ADMINISTRATIVE"
-      ],
+      "jobType": [],
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [
@@ -29,41 +27,8 @@
       "officialUrl": "https://testbook.com/news/aai-junior-executive-manager-recruitment-2026",
       "sourceType": null,
       "notificationNumber": "12/2026/CHQ/DR-CBT",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-airports-authority-of-india-310-reactions-15-shares-aai-recruitment--2026-09",
-      "title": "310 reactions · 15 shares | 🚨 AAI Recruitment 2026 is here! ✈️🇮🇳",
-      "organization": "Airports Authority of India",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "ADMINISTRATIVE",
-        "OFFICER"
-      ],
-      "qualification": "Multiple engineering & non-engineering disciplines",
-      "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": {
-        "text": "CTC up to ₹21 LPA",
-        "minMonthly": null
-      },
-      "vacancies": 389,
-      "applicationStart": "2026-08-08",
-      "applicationEnd": "2026-09-07",
-      "status": "OPEN",
-      "sourceUrl": "https://www.facebook.com/100004203155223/posts/-aai-recruitment-2026-is-here-%EF%B8%8Fairports-authority-of-india-has-announced-389-vac/3670731786410224",
-      "officialUrl": "https://www.facebook.com/100004203155223/posts/-aai-recruitment-2026-is-here-%EF%B8%8Fairports-authority-of-india-has-announced-389-vac/3670731786410224",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-airports-authority-of-india-aai-recruitment-2026-latest-vacancies-on-unknown",
@@ -87,91 +52,8 @@
       "officialUrl": null,
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-airport-authority-of-india-instagram-2026-09",
-      "title": "Instagram",
-      "organization": "Airport Authority of India",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": "BSc CS",
-      "requiredLevel": "BACHELOR",
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": "2026-08-08",
-      "applicationEnd": "2026-09-07",
-      "status": "OPEN",
-      "sourceUrl": "https://www.instagram.com/reel/DbGi3xhPG47",
-      "officialUrl": "https://www.instagram.com/reel/DbGi3xhPG47",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-aai-aai-recruitment-2026-eligibility-age-lim-unknown",
-      "title": "AAI Recruitment 2026 - Eligibility, Age Limit, Salary & Last Date - YouTube",
-      "organization": "AAI",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.youtube.com/watch?v=2WpmG6BkLyk",
-      "officialUrl": "https://www.youtube.com/watch?v=2WpmG6BkLyk",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-indian-oil-corporation-limited-iocl-executive-recruitment-2026-notifica-2026-09",
-      "title": "IOCL Executive Recruitment 2026 Notification Out - Apply Online for 470 Engineers, Officers and More Posts",
-      "organization": "Indian Oil Corporation Limited",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL",
-        "OFFICER"
-      ],
-      "qualification": "Graduate Engineer, Officer (Marketing), Law Officer, Assistant Quality Control Officer, Diploma Engineer",
-      "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": {
-        "text": "₹30,000–₹50,000",
-        "minMonthly": 30000
-      },
-      "vacancies": 470,
-      "applicationStart": "2026-08-14",
-      "applicationEnd": "2026-09-03",
-      "status": "OPEN",
-      "sourceUrl": "https://www.freejobalert.com/articles/iocl-officers-recruitment-2026-apply-online-for-engineers-quality-control-officers-and-more-posts-3062287",
-      "officialUrl": "https://www.freejobalert.com/articles/iocl-officers-recruitment-2026-apply-online-for-engineers-quality-control-officers-and-more-posts-3062287",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-indian-oil-corporation-limited-iocl-iocl-recruitment-2026-out-apply-online-f-2026-09",
@@ -200,43 +82,38 @@
       "officialUrl": "https://www.adda247.com/engineering-jobs/iocl-recruitment-2026",
       "sourceType": null,
       "notificationNumber": "IOCL/CO-HR/Rectt/2026/01",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "psu-iocl-instagram-2026-09",
-      "title": "Instagram",
-      "organization": "IOCL",
+      "id": "psu-indian-oil-corporation-limited-iocl-recruitment-2026-notification-out-4-2026-09",
+      "title": "IOCL Recruitment 2026 Notification Out, 470 Posts, Apply Online Link",
+      "organization": "Indian Oil Corporation Limited",
       "sector": [
         "PSU"
       ],
-      "jobType": [
-        "OFFICER",
-        "TECHNICAL"
-      ],
+      "jobType": [],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [],
       "isAllIndia": null,
       "salary": null,
       "vacancies": 470,
-      "applicationStart": "2026-08-22",
-      "applicationEnd": "2026-09-12",
+      "applicationStart": "2026-08-14",
+      "applicationEnd": "2026-09-03",
       "status": "OPEN",
-      "sourceUrl": "https://www.instagram.com/p/DcZsKs6zcaB",
-      "officialUrl": "https://www.instagram.com/p/DcZsKs6zcaB",
+      "sourceUrl": "https://testbook.com/news/iocl-je-recruitment-2026-out",
+      "officialUrl": "https://testbook.com/news/iocl-je-recruitment-2026-out",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "psu-indian-oil-corporation-limited-apprenticeships-unknown",
-      "title": "Apprenticeships",
-      "organization": "Indian Oil Corporation Limited",
+      "id": "psu-indian-oil-corporation-ltd-apprenticeships-indianoil-for-careers-unknown",
+      "title": "Apprenticeships | IndianOil For Careers",
+      "organization": "Indian Oil Corporation Ltd",
       "sector": [
         "PSU"
       ],
@@ -262,8 +139,8 @@
       "officialUrl": "https://iocl.com/apprenticeships",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-indian-oil-corporation-ltd-iocl-recruitment-2026-latest-vacancies-a-unknown",
@@ -274,13 +151,11 @@
       ],
       "jobType": [
         "TECHNICAL",
-        "CLERICAL"
+        "ADMINISTRATIVE"
       ],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [],
       "isAllIndia": null,
       "salary": null,
@@ -289,11 +164,11 @@
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://affairscloud.com/jobs/iocl-recruitment",
-      "officialUrl": null,
+      "officialUrl": "https://www.iocl.com",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-indian-oil-corporation-limited-iocl-recruitment-2026-indian-oil-corpora-unknown",
@@ -303,8 +178,8 @@
         "PSU"
       ],
       "jobType": [
-        "TECHNICAL",
-        "OFFICER"
+        "OFFICER",
+        "TECHNICAL"
       ],
       "qualification": null,
       "requiredLevel": null,
@@ -320,13 +195,13 @@
       "officialUrl": "https://www.facebook.com/NETodayX/posts/iocl-recruitment-2026-indian-oil-corporation-limited-has-been-issued-for-470-pos/122205637280529078",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "psu-power-grid-corporation-pgcil-recruitment-2026-pgcil-2026-09",
-      "title": "PGCIL Recruitment 2026 - PGCIL भर्ती ऑनलाइन अर्ज करा",
-      "organization": "Power Grid Corporation",
+      "id": "psu-indian-oil-corporation-limited-careers-indian-oil-petroleum-company-in--unknown",
+      "title": "Careers | Indian Oil | Petroleum Company in india",
+      "organization": "Indian Oil Corporation Limited",
       "sector": [
         "PSU"
       ],
@@ -334,37 +209,6 @@
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": "2026-09-10",
-      "status": "OPEN",
-      "sourceUrl": "https://www.govnokri.in/pgcil-recruitment-2026",
-      "officialUrl": "https://www.govnokri.in/pgcil-recruitment-2026",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-power-grid-corporation-pgcil-pgcil-diploma-trainee-recruitment-2026-c-unknown",
-      "title": "PGCIL Diploma Trainee Recruitment 2026: Check Apply Online Last Date, Vacancy & More",
-      "organization": "Power Grid Corporation (PGCIL)",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": "Diploma in either the Electrical, Civil, or Survey (as required) program.",
-      "requiredLevel": "DIPLOMA",
-      "disciplines": [
-        "Electrical",
-        "Civil",
-        "Survey"
-      ],
       "location": [],
       "isAllIndia": null,
       "salary": null,
@@ -372,37 +216,81 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.engineersacademy.org/blog/pgcil-diploma-trainee-recruitment-2026",
-      "officialUrl": "https://www.engineersacademy.org/blog/pgcil-diploma-trainee-recruitment-2026",
+      "sourceUrl": "https://www.iocl.com/pages/careers-overview",
+      "officialUrl": "https://www.iocl.com/pages/careers-overview",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "psu-ntpc-ntpc-deputy-manager-recruitment-2026-out-2026-08",
-      "title": "NTPC Deputy Manager Recruitment 2026 Out for 135 DM Posts, Apply ...",
-      "organization": "NTPC",
+      "id": "psu-power-grid-corporation-of-india-limited-pgcil-recruitment-2026-latest-vacancies--unknown",
+      "title": "PGCIL Recruitment 2026 - Latest Vacancies on August 2026",
+      "organization": "Power Grid Corporation of India Limited",
       "sector": [
         "PSU"
       ],
-      "jobType": [],
-      "qualification": null,
+      "jobType": [
+        "TECHNICAL",
+        "ADMINISTRATIVE",
+        "FIELD",
+        "OFFICER",
+        "FINANCE_ACCOUNTS"
+      ],
+      "qualification": "MBBS, B.E/B.Tech., Diploma, ITI, BBA, BBM, Ph.D, Graduate Degree, Post Graduate Degree",
       "requiredLevel": null,
-      "disciplines": [],
+      "disciplines": [
+        "ANY"
+      ],
       "location": [],
-      "isAllIndia": null,
+      "isAllIndia": true,
       "salary": null,
-      "vacancies": 135,
+      "vacancies": null,
       "applicationStart": null,
-      "applicationEnd": "2026-08-26",
-      "status": "OPEN",
-      "sourceUrl": "https://www.adda247.com/engineering-jobs/ntpc-deputy-manager-recruitment-2026",
-      "officialUrl": "https://www.adda247.com/engineering-jobs/ntpc-deputy-manager-recruitment-2026",
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://affairscloud.com/jobs/pgcil-recruitment",
+      "officialUrl": "https://www.powergridindia.com",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-power-grid-corporation-pgcil-job-opportunities-powergrid-unknown",
+      "title": "Job opportunities | POWERGRID",
+      "organization": "Power Grid Corporation (PGCIL)",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [
+        "OFFICER",
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [
+        "Electrical",
+        "Civil",
+        "Electronics",
+        "HR"
+      ],
+      "location": [
+        "Regions",
+        "Corporate Centre"
+      ],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.powergrid.in/en/job-opportunities",
+      "officialUrl": "https://www.powergrid.in/en/job-opportunities",
+      "sourceType": null,
+      "notificationNumber": "CC/02/2026",
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-ntpc-ntpc-recruitment-2026-latest-vacancies-o-unknown",
@@ -423,15 +311,15 @@
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://affairscloud.com/jobs/ntpc-recruitment",
-      "officialUrl": "https://affairscloud.com/jobs/ntpc-recruitment",
+      "officialUrl": null,
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "psu-ntpc-ntpc-recruitment-2026-himexam-facebook-unknown",
-      "title": "NTPC Recruitment 2026 | HimExam - Facebook",
+      "id": "psu-ntpc-ntpc-recruitment-2026-himexam-unknown",
+      "title": "NTPC Recruitment 2026 | HimExam",
       "organization": "NTPC",
       "sector": [
         "PSU"
@@ -451,73 +339,13 @@
       "officialUrl": "https://www.facebook.com/himexamofficial/videos/ntpc-recruitment-2026/1275913041110407",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "psu-ntpc-jobs-at-ntpc-ntpc-limited-unknown",
+      "id": "psu-ntpc-limited-jobs-at-ntpc-ntpc-limited-unknown",
       "title": "Jobs at NTPC | NTPC Limited",
-      "organization": "NTPC",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL",
-        "ADMINISTRATIVE",
-        "OFFICER",
-        "RESEARCH"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://ntpc.co.in/jobs-ntpc",
-      "officialUrl": "https://ntpc.co.in/jobs-ntpc",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-railway-recruitment-board-rrb-rrb-ntpc-2027-notification-expected-soon-unknown",
-      "title": "RRB NTPC 2027 Notification Expected Soon, Apply Online, Vacancy, Eligibility, Exam Date",
-      "organization": "Railway Recruitment Board (RRB)",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "CLERICAL",
-        "OFFICER"
-      ],
-      "qualification": "Graduate and Undergraduate posts",
-      "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [],
-      "isAllIndia": true,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.pw.live/railway/exams/rrb-ntpc",
-      "officialUrl": "https://www.pw.live/railway/exams/rrb-ntpc",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-bharat-heavy-electricals-limited-bhel-recruitment-2026-latest-vacancies-a-unknown",
-      "title": "BHEL Recruitment 2026 - Latest Vacancies August 2026 : JobsCloud",
-      "organization": "Bharat Heavy Electricals Limited",
+      "organization": "NTPC Limited",
       "sector": [
         "PSU"
       ],
@@ -532,16 +360,16 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://affairscloud.com/jobs/bhel-recruitment",
-      "officialUrl": null,
+      "sourceUrl": "https://ntpc.co.in/jobs-ntpc",
+      "officialUrl": "https://ntpc.co.in/jobs-ntpc",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "psu-bhel-bhel-careers-portal-unknown",
-      "title": "BHEL Careers Portal",
+      "id": "psu-bhel-bhel-assistant-technical-consultants-rec-2026-08",
+      "title": "BHEL Assistant Technical Consultants Recruitment 2026",
       "organization": "BHEL",
       "sector": [
         "PSU"
@@ -552,10 +380,91 @@
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": "2026-08-25",
+      "status": "OPEN",
+      "sourceUrl": "https://www.freejobalert.com/articles/bhel-assistant-technical-consultants-recruitment-2026-apply-offline-3061433",
+      "officialUrl": "https://www.freejobalert.com/articles/bhel-assistant-technical-consultants-recruitment-2026-apply-offline-3061433",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-bharat-heavy-electricals-limited-bhel-recruitment-2026-latest-vacancies-a-unknown",
+      "title": "BHEL Recruitment 2026 - Latest Vacancies August 2026",
+      "organization": "Bharat Heavy Electricals Limited",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://affairscloud.com/jobs/bhel-recruitment",
+      "officialUrl": null,
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-bharat-heavy-electricals-limited-bhel-engineer-trainee-recruitment-2026-n-unknown",
+      "title": "BHEL Engineer Trainee Recruitment 2026: Notification, Apply Online",
+      "organization": "Bharat Heavy Electricals Limited",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": {
+        "text": "Rs. 60,000 - Rs. 1,80,000",
+        "minMonthly": 60000
+      },
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://testbook.com/bhel-engineer-trainee",
+      "officialUrl": "https://testbook.com/bhel-engineer-trainee",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-bhel-part-time-medical-consultant-ptmc-specia-unknown",
+      "title": "Part-Time Medical Consultant (PTMC-SPECIALIST) for Delhi/Noida based Dispensaries",
+      "organization": "BHEL",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
       "location": [
         "Delhi",
-        "Noida",
-        "Jhansi"
+        "Noida"
       ],
       "isAllIndia": false,
       "salary": null,
@@ -567,8 +476,8 @@
       "officialUrl": "https://careers.bhel.in/index.jsp",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-bharat-heavy-electricals-limited-recruitment-official-website-of-bharat-h-unknown",
@@ -594,33 +503,8 @@
       "officialUrl": "https://www.bhel.com/recruitment",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-bhel-instagram-unknown",
-      "title": "Instagram",
-      "organization": "BHEL",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.instagram.com/reel/DYrKfCdM38K?hl=en",
-      "officialUrl": "https://www.instagram.com/reel/DYrKfCdM38K?hl=en",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-ongc-ongc-recruitment-2026-latest-vacancies-o-unknown",
@@ -631,10 +515,8 @@
       ],
       "jobType": [
         "TECHNICAL",
-        "ADMINISTRATIVE",
         "OFFICER",
-        "FIELD",
-        "CLERICAL"
+        "ADMINISTRATIVE"
       ],
       "qualification": null,
       "requiredLevel": null,
@@ -647,11 +529,39 @@
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://affairscloud.com/jobs/ongc-recruitment",
-      "officialUrl": null,
+      "officialUrl": "https://www.ongcindia.com",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-ongc-ongc-recruitment-2026-application-form-e-unknown",
+      "title": "ONGC Recruitment 2026 Application Form, Exam Date, Syllabus, Eligibility, Pattern",
+      "organization": "ONGC",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [
+        "TECHNICAL",
+        "ADMINISTRATIVE"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.campusoption.com/ongc-recruitment-entrance-exam",
+      "officialUrl": "https://www.campusoption.com/ongc-recruitment-entrance-exam",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-ongc-ongc-apprentice-recruitment-2026-notific-unknown",
@@ -677,33 +587,8 @@
       "officialUrl": "https://prepp.in/ongc-recruitment-exam",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-ongc-ongc-head-recruitment-2026-05-posts-onli-unknown",
-      "title": "ONGC Head Recruitment 2026 (05 Posts) Online Form, Notification [Experienced Professionals Only]",
-      "organization": "ONGC",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 11127,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.instagram.com/reel/DVa7tFokeJB?hl=en",
-      "officialUrl": "www.rrbapply.gov.in",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-steel-authority-of-india-limited-sail-sail-recruitment-2026-complete-job-detai-2026-08",
@@ -731,8 +616,8 @@
       "officialUrl": "https://www.youtube.com/watch?v=5VRYETJqcNc",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-sail-sail-career-page-unknown",
@@ -741,13 +626,16 @@
       "sector": [
         "PSU"
       ],
-      "jobType": [],
-      "qualification": "Doctor (Medical)",
-      "requiredLevel": "BACHELOR",
-      "disciplines": [],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [
+        "MEDICAL"
+      ],
       "location": [
-        "IISCO Steel Plant",
-        "Durgapur Steel Plant",
+        "IISCO Steel Plant (Durgapur)",
         "Bhilai Steel Plant",
         "Collieries Division",
         "Rourkela Steel Plant"
@@ -761,9 +649,9 @@
       "sourceUrl": "https://sailcareers.com",
       "officialUrl": "https://sailcareers.com",
       "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "notificationNumber": "ISP/YP/2026/01",
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-gas-authority-of-india-limited-gail-gail-executive-trainee-recruitment-2026--unknown",
@@ -775,11 +663,9 @@
       "jobType": [
         "TECHNICAL"
       ],
-      "qualification": "B.E./B.Tech degree",
+      "qualification": "B.E./B.Tech (Engineering) and GATE 2026 qualification",
       "requiredLevel": "BACHELOR",
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [
         "Across India"
       ],
@@ -793,8 +679,8 @@
       "officialUrl": "https://govtjobswallah.com/gail-executive-trainee-recruitment-2026",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-gail-gail-recruitment-2026-latest-vacancies-o-unknown",
@@ -818,87 +704,8 @@
       "officialUrl": "https://affairscloud.com/jobs/gail-recruitment",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-gail-gail-recruitment-2025-throught-gate-2026-unknown",
-      "title": "GAIL Recruitment 2025 | Throught Gate 2026 Scorecard | ACE Online",
-      "organization": "GAIL",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "OFFICER"
-      ],
-      "qualification": "GATE 2026 scorecard",
-      "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.youtube.com/watch?v=K4Vy4FtnsU8",
-      "officialUrl": "https://www.youtube.com/watch?v=K4Vy4FtnsU8",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-gail-gail-india-limited-unknown",
-      "title": "GAIL India Limited",
-      "organization": "GAIL",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.gailonline.com",
-      "officialUrl": "https://www.gailonline.com",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-hal-hal-recruitment-2026-online-application--unknown",
-      "title": "HAL Recruitment 2026 Online Application Form Fill Up | Step by Step Process 🚀",
-      "organization": "HAL",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": "2026-07-29",
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.youtube.com/watch?v=YFwK1Q3JII0",
-      "officialUrl": null,
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-hal-careers-unknown",
@@ -922,8 +729,8 @@
       "officialUrl": "https://hal-india.co.in/career",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-bharat-electronics-limited-bel-recruitment-2026-latest-vacancies-au-unknown",
@@ -946,45 +753,11 @@
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://affairscloud.com/jobs/bel-recruitment",
-      "officialUrl": "http://www.bel-india.in",
+      "officialUrl": "https://www.bel-india.in",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-bharat-electronics-limited-bel-recruitment-2026-trainee-engineer-no-unknown",
-      "title": "BEL Recruitment 2026 | Trainee Engineer Notification Out | Eligibility, Salary & Apply Process",
-      "organization": "Bharat Electronics Limited",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [
-        "Mechanical",
-        "Electrical",
-        "Electronics",
-        "Computer Science",
-        "Civil",
-        "Instrumentation"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.youtube.com/watch?v=3Ntfaa-XfD4",
-      "officialUrl": "https://www.youtube.com/watch?v=3Ntfaa-XfD4",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-bel-job-notifications-unknown",
@@ -1008,8 +781,62 @@
       "officialUrl": "https://bel-india.in/job-notifications",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-bel-bel-trainee-engineer-recruitment-2026-me-unknown",
+      "title": "BEL Trainee Engineer Recruitment 2026 - Mechanical Jobs",
+      "organization": "BEL",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [
+        "MECHANICAL"
+      ],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.youtube.com/watch?v=j4itqb_HPPM",
+      "officialUrl": "https://www.youtube.com/watch?v=j4itqb_HPPM",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-bharat-electronics-limited-bel-bel-government-of-india-ministry-of-defe-unknown",
+      "title": "BEL – GOVERNMENT OF INDIA, MINISTRY OF DEFENCE , A ...",
+      "organization": "Bharat Electronics Limited (BEL)",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://bel-india.in",
+      "officialUrl": "https://bel-india.in",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-coal-india-limited-coal-india-recruitment-2026-latest-vacan-unknown",
@@ -1021,15 +848,12 @@
       "jobType": [
         "TECHNICAL",
         "ADMINISTRATIVE",
-        "OFFICER",
         "FIELD",
         "FINANCE_ACCOUNTS"
       ],
-      "qualification": "SSLC, HSc., ITI, Diploma, CA, ICWA, MBA, PGDM, Ph.D, Graduate Degree and Post Graduate Degree",
+      "qualification": "SSLC, HSc., ITI, Diploma, CA, ICWA, MBA, PGDM, Ph.D, Graduate Degree, Post Graduate Degree",
       "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [],
       "isAllIndia": null,
       "salary": null,
@@ -1041,8 +865,8 @@
       "officialUrl": "https://affairscloud.com/jobs/coal-india-recruitment",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-coal-india-career-with-cil-unknown",
@@ -1066,71 +890,13 @@
       "officialUrl": "https://www.coalindia.in/career-cil",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-coal-india-jobs-at-coal-india-unknown",
       "title": "Jobs at Coal India",
       "organization": "Coal India",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "OFFICER",
-        "ADMINISTRATIVE",
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.coalindia.in/career-cil/jobs-coal-india",
-      "officialUrl": "https://www.coalindia.in/career-cil/jobs-coal-india",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-national-hydroelectric-power-corporation-nhpc-recruitment-2026-latest-vacancies-o-unknown",
-      "title": "NHPC Recruitment 2026 - Latest Vacancies on August 2026",
-      "organization": "National Hydroelectric Power Corporation",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL",
-        "ADMINISTRATIVE",
-        "OFFICER"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://affairscloud.com/jobs/nhpc-recruitment",
-      "officialUrl": "https://affairscloud.com/jobs/nhpc-recruitment",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-nhpc-limited-nhpc-limited-recruitment-2026-apply-powe-unknown",
-      "title": "NHPC LIMITED RECRUITMENT 2026 APPLY... - Power Plant Vacancy",
-      "organization": "NHPC LIMITED",
       "sector": [
         "PSU"
       ],
@@ -1145,23 +911,78 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.facebook.com/61556598358610/posts/nhpc-limited-recruitment-2026apply-link-aaaa-more/122298018410219945",
-      "officialUrl": "https://www.facebook.com/61556598358610/posts/nhpc-limited-recruitment-2026apply-link-aaaa-more/122298018410219945",
+      "sourceUrl": "https://www.coalindia.in/career-cil/jobs-coal-india",
+      "officialUrl": "https://www.coalindia.in/career-cil/jobs-coal-india",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "psu-national-hydroelectric-power-corporation-ltd-nhpc-india-unknown",
-      "title": "नौकरी की सूची - NHPC India",
-      "organization": "National Hydroelectric Power Corporation Ltd",
+      "id": "psu-nalco-nalco-recruitment-unknown",
+      "title": "nalco recruitment",
+      "organization": "NALCO",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://mudira.nalcoindia.co.in/Account/RegisterUserRecruitment.aspx",
+      "officialUrl": "https://mudira.nalcoindia.co.in/Account/RegisterUserRecruitment.aspx",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-national-hydroelectric-power-corporation-nhpc-recruitment-2026-latest-vacancies-o-unknown",
+      "title": "NHPC Recruitment 2026 - Latest Vacancies on August 2026",
+      "organization": "National Hydroelectric Power Corporation",
       "sector": [
         "PSU"
       ],
       "jobType": [
         "TECHNICAL",
         "ADMINISTRATIVE",
+        "OFFICER"
+      ],
+      "qualification": "SSLC, HSc., ITI, Diploma, B.E/B.Tech., MBA/PDGM, CA, ICWA, Graduate Degree, Post Graduate Degree",
+      "requiredLevel": null,
+      "disciplines": [
+        "ANY"
+      ],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://affairscloud.com/jobs/nhpc-recruitment",
+      "officialUrl": "https://affairscloud.com/jobs/nhpc-recruitment",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-national-hydroelectric-power-corporation-ltd-posting-unknown",
+      "title": "नौकरी की सूची - एनएचपीसी इंडिया",
+      "organization": "National Hydroelectric Power Corporation Ltd",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [
+        "TECHNICAL",
         "OFFICER"
       ],
       "qualification": null,
@@ -1181,8 +1002,33 @@
       "officialUrl": "https://www.nhpcindia.com/welcome/job",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-nhpc-how-to-fill-nhpc-apprentice-form-2026-ne-unknown",
+      "title": "How to Fill NHPC Apprentice Form 2026 New Vacancy - YouTube",
+      "organization": "NHPC",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.youtube.com/watch?v=wAAHdkOn3Ns",
+      "officialUrl": null,
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-thdc-thdc-recruitment-2026-apply-online-vacan-unknown",
@@ -1203,38 +1049,11 @@
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://competition.careers360.com/articles/thdc-recruitment",
-      "officialUrl": "thdc.co.in",
+      "officialUrl": "https://thdc.co.in",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-thdc-india-limited-thdc-recruitment-2027-salary-eligibility-unknown",
-      "title": "THDC Recruitment 2027 | Salary, Eligibility, Vacancy & Apply Process | Detailed Notification Out",
-      "organization": "THDC India Limited",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.youtube.com/watch?v=kfHm5g6l8k4",
-      "officialUrl": "https://www.youtube.com/watch?v=kfHm5g6l8k4",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-thdc-india-limited-thdc-recruitment-2025-out-apply-online-f-unknown",
@@ -1244,8 +1063,7 @@
         "PSU"
       ],
       "jobType": [
-        "TECHNICAL",
-        "ADMINISTRATIVE"
+        "TECHNICAL"
       ],
       "qualification": null,
       "requiredLevel": null,
@@ -1263,13 +1081,72 @@
       "officialUrl": "https://www.pw.live/ae-je/exams/thdc-recruitment-2025",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-thdc-india-limited-new-job-opening-thdc-india-limited-india-unknown",
       "title": "New Job Opening | THDC India Limited - India",
       "organization": "THDC India Limited",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [
+        "Rishikesh, Uttarakhand, India"
+      ],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.thdc.co.in/en/career/new-job-opening",
+      "officialUrl": "https://www.thdc.co.in/en/career/new-job-opening",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-rites-rites-recruitment-2026-latest-vacancies--unknown",
+      "title": "RITES Recruitment 2026 - Latest vacancies on August 2026",
+      "organization": "RITES",
+      "sector": [
+        "PSU"
+      ],
+      "jobType": [
+        "OFFICER",
+        "ADMINISTRATIVE",
+        "FIELD",
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [
+        "India"
+      ],
+      "isAllIndia": true,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://affairscloud.com/jobs/rites-recruitment",
+      "officialUrl": "https://affairscloud.com/jobs/rites-recruitment",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "psu-rites-selection-schedule-unknown",
+      "title": "Selection Schedule",
+      "organization": "RITES",
       "sector": [
         "PSU"
       ],
@@ -1284,75 +1161,12 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.thdc.co.in/en/career/new-job-opening",
-      "officialUrl": "https://www.thdc.co.in/en/career/new-job-opening",
+      "sourceUrl": "https://www.rites.com/SelectionSchedule",
+      "officialUrl": "https://www.rites.com/SelectionSchedule",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-rites-rites-recruitment-2026-eligibility-salar-unknown",
-      "title": "RITES Recruitment 2026 🏗️ Eligibility, Salary & Apply Process | Complete Details",
-      "organization": "RITES",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.youtube.com/watch?v=UBbib_da-OE",
-      "officialUrl": null,
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-rites-rites-recruitment-2026-latest-vacancies--unknown",
-      "title": "RITES Recruitment 2026 - Latest vacancies on August 2026",
-      "organization": "RITES",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [
-        "TECHNICAL",
-        "ADMINISTRATIVE",
-        "FIELD",
-        "OFFICER"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [
-        "India"
-      ],
-      "isAllIndia": true,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://affairscloud.com/jobs/rites-recruitment",
-      "officialUrl": "https://affairscloud.com/jobs/rites-recruitment",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-rites-vacancies-2026-08",
@@ -1376,36 +1190,8 @@
       "officialUrl": "https://www.rites.com/career",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "psu-rites-instagram-unknown",
-      "title": "Instagram",
-      "organization": "RITES",
-      "sector": [
-        "PSU"
-      ],
-      "jobType": [],
-      "qualification": "10TH PASS / 12TH PASS",
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": {
-        "text": "₹ 42,000/-",
-        "minMonthly": 42000
-      },
-      "vacancies": 25000,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.instagram.com/reel/DWTEVetjAhC?hl=en",
-      "officialUrl": "https://www.instagram.com/reel/DWTEVetjAhC?hl=en",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-isro-careers-2026-08",
@@ -1415,17 +1201,18 @@
         "PSU"
       ],
       "jobType": [
-        "TECHNICAL"
+        "TECHNICAL",
+        "ADMINISTRATIVE",
+        "CLERICAL",
+        "RESEARCH"
       ],
-      "qualification": "Graduate and Diploma Apprentices in Different Streams",
+      "qualification": null,
       "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [
         "Bengaluru"
       ],
-      "isAllIndia": false,
+      "isAllIndia": null,
       "salary": null,
       "vacancies": null,
       "applicationStart": "2026-07-29",
@@ -1434,9 +1221,9 @@
       "sourceUrl": "https://www.isro.gov.in/Careers.html",
       "officialUrl": "https://www.isro.gov.in/Careers.html",
       "sourceType": null,
-      "notificationNumber": "URSC:03:2026",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "psu-indian-space-research-organisation-isro-recruitment-2026-latest-vacancies-o-unknown",
@@ -1446,12 +1233,13 @@
         "PSU"
       ],
       "jobType": [
-        "TECHNICAL",
-        "RESEARCH"
+        "TECHNICAL"
       ],
       "qualification": "ME, M.Tech, M.Sc, Ph.D, Diploma",
       "requiredLevel": null,
-      "disciplines": [],
+      "disciplines": [
+        "ANY"
+      ],
       "location": [],
       "isAllIndia": null,
       "salary": null,
@@ -1460,16 +1248,74 @@
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://affairscloud.com/jobs/isro-recruitment",
-      "officialUrl": null,
+      "officialUrl": "https://affairscloud.com/jobs/isro-recruitment",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-ibps-po-ibps-unknown",
+      "id": "banking-ibps-ibps-unknown",
       "title": "ibps",
-      "organization": "IBPS PO",
+      "organization": "IBPS",
+      "sector": [
+        "BANKING"
+      ],
+      "jobType": [
+        "OFFICER"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": "2026-08-11",
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.ibps.in",
+      "officialUrl": "https://www.ibps.in",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "banking-institute-of-banking-personnel-selection-ibps-clerk-notification-2026-out-for-11--2026-08",
+      "title": "IBPS Clerk Notification 2026 Out For 11,403 Vacancies, Check Prelims Exam Date and Shifts",
+      "organization": "Institute of Banking Personnel Selection",
+      "sector": [
+        "BANKING"
+      ],
+      "jobType": [
+        "CLERICAL"
+      ],
+      "qualification": "Graduation",
+      "requiredLevel": "BACHELOR",
+      "disciplines": [
+        "ANY"
+      ],
+      "location": [
+        "Various States and Union Territories, India"
+      ],
+      "isAllIndia": true,
+      "salary": null,
+      "vacancies": 11403,
+      "applicationStart": null,
+      "applicationEnd": "2026-08-28",
+      "status": "OPEN",
+      "sourceUrl": "https://www.adda247.com/exams/bank/ibps-clerk-notification-2026",
+      "officialUrl": "https://www.adda247.com/exams/bank/ibps-clerk-notification-2026",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "banking-ibps-recruitment-of-clerk-2026-08",
+      "title": "Recruitment of Clerk",
+      "organization": "IBPS",
       "sector": [
         "BANKING"
       ],
@@ -1484,24 +1330,23 @@
       "salary": null,
       "vacancies": null,
       "applicationStart": "2026-08-10",
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.ibps.in",
-      "officialUrl": "https://www.ibps.in",
+      "applicationEnd": "2026-08-31",
+      "status": "OPEN",
+      "sourceUrl": "https://ibpsreg.ibps.in/gpcbmay26",
+      "officialUrl": "https://ibpsreg.ibps.in/gpcbmay26",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-ibps-ibps-rrb-2026-notification-exam-date-out-unknown",
-      "title": "IBPS RRB 2026 Notification, Exam Date (Out), Application Form, Eligibility",
+      "id": "banking-ibps-common-recruitment-process-for-recruitme-2026-09",
+      "title": "Common Recruitment Process for Recruitment of Customer ...",
       "organization": "IBPS",
       "sector": [
         "BANKING"
       ],
       "jobType": [
-        "OFFICER",
         "CLERICAL"
       ],
       "qualification": null,
@@ -1512,46 +1357,18 @@
       "salary": null,
       "vacancies": null,
       "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.careerpower.in/ibps-rrb.html",
-      "officialUrl": "https://www.careerpower.in/ibps-rrb.html",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "banking-ibps-ibps-rrb-apply-online-2026-get-direct-li-2026-08",
-      "title": "IBPS RRB Apply Online 2026, Get Direct Link and Exam Schedule",
-      "organization": "IBPS",
-      "sector": [
-        "BANKING"
-      ],
-      "jobType": [
-        "CLERICAL",
-        "ADMINISTRATIVE"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 11403,
-      "applicationStart": null,
-      "applicationEnd": "2026-08-28",
+      "applicationEnd": "2026-09-12",
       "status": "OPEN",
-      "sourceUrl": "https://www.adda247.com/jobs/ibps-rrb-apply-online",
-      "officialUrl": "https://www.adda247.com/jobs/ibps-rrb-apply-online",
+      "sourceUrl": "https://ibpsreg.ibps.in/csaxvijul26",
+      "officialUrl": "https://ibpsreg.ibps.in/csaxvijul26",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-ibps-ibps-rrb-notification-2026-expected-date-unknown",
-      "title": "IBPS RRB Notification 2026: Expected Date, Clerk, PO, PDF",
+      "id": "banking-ibps-ibps-rrb-apply-online-2026-application-f-unknown",
+      "title": "IBPS RRB Apply Online 2026: Application Form, Fees and Process",
       "organization": "IBPS",
       "sector": [
         "BANKING"
@@ -1570,15 +1387,15 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://guidely.in/exams/bank-insurance/ibps-rrb",
-      "officialUrl": "https://guidely.in/exams/bank-insurance/ibps-rrb",
+      "sourceUrl": "https://www.smartkeeda.com/ibps-rrb-apply-online",
+      "officialUrl": "https://www.ibps.in",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-ibps-ibps-rrb-2026-notification-exam-date-out-unknown-2",
+      "id": "banking-ibps-ibps-rrb-2026-notification-exam-date-out-unknown",
       "title": "IBPS RRB 2026 Notification, Exam Date Out for PO, Clerk, Officer Scale 2 & 3",
       "organization": "IBPS",
       "sector": [
@@ -1587,61 +1404,6 @@
       "jobType": [
         "OFFICER",
         "CLERICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.adda247.com/ibps-rrb-po-clerk",
-      "officialUrl": "https://www.adda247.com/ibps-rrb-po-clerk",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "banking-ibps-rrb-ibps-rrb-2026-exam-date-out-notification-unknown",
-      "title": "IBPS RRB 2026 - Exam Date (Out), Notification Apply Online, Vacancies, Syllabus, Eligibility",
-      "organization": "IBPS RRB",
-      "sector": [
-        "BANKING"
-      ],
-      "jobType": [
-        "OFFICER",
-        "CLERICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": true,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://competition.careers360.com/articles/ibps-rrb-2026",
-      "officialUrl": "https://competition.careers360.com/articles/ibps-rrb-2026",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "banking-ibps-rrb-how-to-apply-ibps-rrb-po-2026-online-com-unknown",
-      "title": "How to apply IBPS RRB PO 2026 Online | Complete Process",
-      "organization": "IBPS RRB",
-      "sector": [
-        "BANKING"
-      ],
-      "jobType": [
-        "OFFICER"
       ],
       "qualification": null,
       "requiredLevel": null,
@@ -1655,22 +1417,51 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.mahendras.org/blogs/ibps-rrb-po-2026-apply-online-step-by-step-registration-guide-official-process-explained",
-      "officialUrl": "https://www.mahendras.org/blogs/ibps-rrb-po-2026-apply-online-step-by-step-registration-guide-official-process-explained",
+      "sourceUrl": "https://www.adda247.com/ibps-rrb-po-clerk",
+      "officialUrl": "https://www.ibps.in",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-institute-of-banking-personnel-selection-winners-management-portal-unknown",
-      "title": "Winners Management Portal",
-      "organization": "Institute of Banking & Personnel Selection",
+      "id": "banking-ibps-ibps-rrb-clerk-notification-2026-exam-da-unknown",
+      "title": "IBPS RRB Clerk Notification 2026, Exam Dates out",
+      "organization": "IBPS",
       "sector": [
         "BANKING"
       ],
       "jobType": [
-        "OFFICER"
+        "CLERICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [
+        "ANY"
+      ],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.mahendras.org/blogs/ibps-rrb-clerk-notification-out",
+      "officialUrl": "https://www.mahendras.org/blogs/ibps-rrb-clerk-notification-out",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "banking-regional-rural-banks-rrb-office-assistants-multipurpose-unknown",
+      "title": "Office Assistants (Multipurpose)",
+      "organization": "Regional Rural Banks (RRB)",
+      "sector": [
+        "BANKING"
+      ],
+      "jobType": [
+        "CLERICAL"
       ],
       "qualification": null,
       "requiredLevel": null,
@@ -1679,15 +1470,15 @@
       "isAllIndia": null,
       "salary": null,
       "vacancies": null,
-      "applicationStart": null,
+      "applicationStart": "2026-08-03",
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.winnersinstitute.in/ibps-rrb-po-coaching-indore",
-      "officialUrl": "https://www.winnersinstitute.in/ibps-rrb-po-coaching-indore",
+      "sourceUrl": "https://www.ibps.in/index.php/rural-bank-xiv",
+      "officialUrl": "https://www.ibps.in/index.php/rural-bank-xiv",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "banking-institute-of-banking-personnel-selection-ibps-crp-rrbs-xiv-final-ad-27-09-25-pdf-unknown",
@@ -1713,8 +1504,8 @@
       "officialUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XIV_Final_AD-27.09.25.pdf",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "banking-state-bank-of-india-sbi-po-exams-check-exam-dates-eligibilit-unknown",
@@ -1728,9 +1519,7 @@
       ],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [],
       "isAllIndia": null,
       "salary": null,
@@ -1742,8 +1531,8 @@
       "officialUrl": "https://www.bankbazaar.com/banking-sector/sbi-po.html",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "banking-state-bank-of-india-current-openings-careers-sbi-bank-unknown",
@@ -1753,8 +1542,7 @@
         "BANKING"
       ],
       "jobType": [
-        "OFFICER",
-        "CLERICAL"
+        "OFFICER"
       ],
       "qualification": null,
       "requiredLevel": null,
@@ -1771,67 +1559,13 @@
       "sourceUrl": "https://sbi.bank.in/web/careers/current-openings",
       "officialUrl": "https://sbi.bank.in/web/careers/current-openings",
       "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "notificationNumber": "CRPD/CR/2026-27/17",
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-state-bank-of-india-probationary-officers-careers-unknown",
-      "title": "Probationary Officers - Careers",
-      "organization": "State Bank of India",
-      "sector": [
-        "BANKING"
-      ],
-      "jobType": [
-        "OFFICER"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://sbi.bank.in/web/careers/probationary-officers",
-      "officialUrl": "https://sbi.bank.in/web/careers/probationary-officers",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "banking-state-bank-of-india-sbi-po-recruitment-notification-out-for--unknown",
-      "title": "SBI PO Recruitment Notification Out for 1500 Vacancies - Sarthaks eConnect | Largest Online Education Community",
-      "organization": "State Bank of India",
-      "sector": [
-        "BANKING"
-      ],
-      "jobType": [
-        "OFFICER"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 1500,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.sarthaks.com/3862102/sbi-po-recruitment-notification-out-for1500-vacancies",
-      "officialUrl": "https://www.sarthaks.com/3862102/sbi-po-recruitment-notification-out-for1500-vacancies",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "banking-state-bank-of-india-sbi-clerk-notification-2026-out-for-9766-2026-08",
-      "title": "SBI Clerk Notification 2026 Out for 9766 Posts, Check Eligibility and Prelims Exam Date",
+      "id": "banking-state-bank-of-india-sbi-clerk-apply-online-2026-link-active--2026-08",
+      "title": "SBI Clerk Apply Online 2026 Link Active, sbi.bank.in Form Fee, Last Date",
       "organization": "State Bank of India",
       "sector": [
         "BANKING"
@@ -1839,27 +1573,24 @@
       "jobType": [
         "CLERICAL"
       ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [
-        "India"
+      "qualification": "Graduation degree",
+      "requiredLevel": "BACHELOR",
+      "disciplines": [
+        "ANY"
       ],
-      "isAllIndia": true,
-      "salary": {
-        "text": "Rs. 46,000/- (Approx)",
-        "minMonthly": 46000
-      },
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
       "vacancies": 9766,
       "applicationStart": "2026-08-11",
       "applicationEnd": "2026-08-31",
       "status": "OPEN",
-      "sourceUrl": "https://www.adda247.com/jobs/sbi-clerk",
-      "officialUrl": "https://www.sbi.bank.in",
+      "sourceUrl": "https://testbook.com/news/sbi-clerk-apply-online-2026-link-active",
+      "officialUrl": null,
       "sourceType": null,
-      "notificationNumber": "CRPD/CR/2026-27/17",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "banking-state-bank-of-india-sbi-clerk-recruitment-2026-notification--2026-08",
@@ -1872,10 +1603,8 @@
         "CLERICAL"
       ],
       "qualification": null,
-      "requiredLevel": "BACHELOR",
-      "disciplines": [
-        "ANY"
-      ],
+      "requiredLevel": null,
+      "disciplines": [],
       "location": [],
       "isAllIndia": null,
       "salary": {
@@ -1890,39 +1619,12 @@
       "officialUrl": "https://avision.co.in/courseinfo/sbi-clerk-online-classes",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-sbi-sbi-clerk-recruitment-2026-notification--unknown",
-      "title": "SBI Clerk Recruitment 2026: Notification Out for 9124 Junior Associate Posts, Apply Online",
-      "organization": "SBI",
-      "sector": [
-        "BANKING"
-      ],
-      "jobType": [
-        "CLERICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 9124,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.facebook.com/himexamofficial/posts/sbi-clerk-recruitment-2026-notification-out-for-9124-junior-associate-posts-appl/1685831063550511",
-      "officialUrl": "https://www.facebook.com/himexamofficial/posts/sbi-clerk-recruitment-2026-notification-out-for-9124-junior-associate-posts-appl/1685831063550511",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "banking-state-bank-of-india-new-home-careers-unknown",
-      "title": "New Home - Careers",
+      "id": "banking-state-bank-of-india-sbi-clerk-unknown",
+      "title": "SBI Clerk",
       "organization": "State Bank of India",
       "sector": [
         "BANKING"
@@ -1944,19 +1646,17 @@
       "officialUrl": "https://sbi.bank.in/web/careers",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-rbi-rbi-grade-b-notification-2026-released-a-unknown",
-      "title": "RBI Grade B Notification 2026 Released, Apply Online ...",
-      "organization": "RBI",
+      "id": "banking-state-bank-of-india-junior-associate-careers-unknown",
+      "title": "Junior Associate - Careers",
+      "organization": "State Bank of India",
       "sector": [
         "BANKING"
       ],
-      "jobType": [
-        "OFFICER"
-      ],
+      "jobType": [],
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [],
@@ -1964,15 +1664,15 @@
       "isAllIndia": null,
       "salary": null,
       "vacancies": null,
-      "applicationStart": "2026-04-29",
+      "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.ndtv.com/education/rbi-grade-b-notification-2026-released-apply-online-starts-from-today-april-29-11423532",
-      "officialUrl": "https://rbi.org",
+      "sourceUrl": "https://sbi.bank.in/web/careers/junior-associate",
+      "officialUrl": "https://sbi.bank.in/web/careers/junior-associate",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "banking-rbi-rbi-grade-b-notification-2026-recruitmen-unknown",
@@ -1998,8 +1698,8 @@
       "officialUrl": "https://edutap.in/rbi-grade-b/notification",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "banking-reserve-bank-of-india-rbi-assistant-mains-exam-date-2026-out-f-unknown",
@@ -2009,7 +1709,7 @@
         "BANKING"
       ],
       "jobType": [
-        "CLERICAL"
+        "OFFICER"
       ],
       "qualification": "Bachelor’s Degree (Minimum 50% marks for Gen/OBC/EWS)",
       "requiredLevel": "BACHELOR",
@@ -2027,37 +1727,8 @@
       "officialUrl": "https://www.bankersadda.com/rbi-assistant",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "banking-reserve-bank-of-india-instagram-unknown",
-      "title": "Instagram",
-      "organization": "Reserve Bank of India",
-      "sector": [
-        "BANKING"
-      ],
-      "jobType": [
-        "OFFICER"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [
-        "Assam (Guwahati)"
-      ],
-      "isAllIndia": false,
-      "salary": null,
-      "vacancies": 650,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.instagram.com/p/DU5ry3QAZ20?hl=en",
-      "officialUrl": "https://www.instagram.com/p/DU5ry3QAZ20?hl=en",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "banking-national-bank-for-agriculture-and-rural-development-nabard-nabard-grade-a-2026-notification-expecte-unknown",
@@ -2080,16 +1751,16 @@
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://www.pw.live/agriculture/exams/nabard-grade-a",
-      "officialUrl": "www.nabard.org",
+      "officialUrl": "https://www.nabard.org",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-nabard-nabard-grade-a-2026-27-registarion-proce-unknown",
-      "title": "NABARD Grade A 2026-27: Registarion Process",
-      "organization": "NABARD",
+      "id": "banking-nabard-national-bank-for-agriculture-and-rural-development-nabard-grade-a-2026-notification-soon-ex-unknown",
+      "title": "NABARD Grade A 2026 Notification Soon, Exam Date, Eligibility and Application Form",
+      "organization": "NABARD (National Bank for Agriculture and Rural Development)",
       "sector": [
         "BANKING"
       ],
@@ -2098,7 +1769,11 @@
       ],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [],
+      "disciplines": [
+        "Rural Development Banking Service (RDBS)",
+        "Legal",
+        "Protocol & Security Service"
+      ],
       "location": [],
       "isAllIndia": null,
       "salary": null,
@@ -2106,12 +1781,12 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.mahendras.org/blogs/nabard-grade-a-2026-27-registarion-process",
-      "officialUrl": "https://www.mahendras.org/blogs/nabard-grade-a-2026-27-registarion-process",
+      "sourceUrl": "https://www.adda247.com/exams/agriculture/nabard-grade-a",
+      "officialUrl": "https://www.nabard.org",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "banking-nabard-nabard-grade-a-apply-online-2026-applica-unknown",
@@ -2125,9 +1800,7 @@
       ],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [],
       "isAllIndia": null,
       "salary": null,
@@ -2139,13 +1812,13 @@
       "officialUrl": "https://www.oliveboard.in/nabard-grade-a-apply-online",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "banking-nabard-nabard-grade-a-exam-2026-recruitment-not-unknown",
-      "title": "NABARD Grade A Exam 2026 - Recruitment, Notification, Vacancy, & Complete Information",
-      "organization": "NABARD",
+      "id": "banking-indian-overseas-bank-recruitment-of-chief-financial-officer-unknown",
+      "title": "Recruitment of Chief Financial Officer",
+      "organization": "Indian Overseas Bank",
       "sector": [
         "BANKING"
       ],
@@ -2162,66 +1835,16 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.ixambee.com/exams/nabard-grade-a-exam",
-      "officialUrl": "https://www.ixambee.com/exams/nabard-grade-a-exam",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "banking-indian-overseas-bank-careers-at-iob-dynamic-team-driving-fina-unknown",
-      "title": "Careers at IOB | Dynamic Team Driving Financial Excellence - IOB",
-      "organization": "Indian Overseas Bank",
-      "sector": [
-        "BANKING"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 750,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://www.iob.bank.in/en/careers",
       "officialUrl": "https://www.iob.bank.in/en/careers",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-railway-recruitment-board-rrb-ntpc-rrb-ntpc-2026-notification-soon-apply-on-unknown",
-      "title": "RRB NTPC 2026 Notification SOON: Apply Online Link, Exam Dates, Eligibility & Vacancies",
-      "organization": "Railway Recruitment Board (RRB) NTPC",
-      "sector": [
-        "RAILWAY"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.shiksha.com/exams/rrb-ntpc-exam-notification",
-      "officialUrl": "https://www.shiksha.com/exams/rrb-ntpc-exam-notification",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "railway-rrb-ntpc-abp-live-rrb-ntpc-recruitment-2026-regis-unknown",
-      "title": "ABP Live - RRB NTPC Recruitment 2026: Registration...",
+      "id": "railway-rrb-ntpc-rrb-ntpc-recruitment-2026-registration-d-unknown",
+      "title": "RRB NTPC Recruitment 2026: Registration Deadline Extended; Apply By Dec 4",
       "organization": "RRB NTPC",
       "sector": [
         "RAILWAY"
@@ -2241,147 +1864,8 @@
       "officialUrl": "https://www.facebook.com/abplive/posts/rrb-ntpc-recruitment-2026-registration-deadline-extended-apply-by-dec-4/1349328047226811",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "railway-railway-recruitment-board-rrb-ntpc-undergraduate-cbt-2-exam-date-2-unknown",
-      "title": "RRB NTPC Undergraduate CBT 2 Exam Date 2026 Out, Check Complete Exam Schedule",
-      "organization": "Railway Recruitment Board",
-      "sector": [
-        "RAILWAY"
-      ],
-      "jobType": [],
-      "qualification": "Undergraduate",
-      "requiredLevel": "BACHELOR",
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.adda247.com/exams/railway/rrb-ntpc-graduate-level-exam-date-2026-out",
-      "officialUrl": "https://www.adda247.com/exams/railway/rrb-ntpc-graduate-level-exam-date-2026-out",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "railway-railway-recruitment-board-rrb-je-2026-notification-out-for-4-029-v-2026-09",
-      "title": "RRB JE 2026 Notification Out for 4,029 Vacancies, Check Official (CEN 04/2026) PDF Link Here",
-      "organization": "Railway Recruitment Board",
-      "sector": [
-        "RAILWAY"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": "Three-year Diploma or Engineering Degree in relevant discipline",
-      "requiredLevel": "DIPLOMA",
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 4029,
-      "applicationStart": "2026-08-14",
-      "applicationEnd": "2026-09-13",
-      "status": "OPEN",
-      "sourceUrl": "https://www.adda247.com/engineering-jobs/rrb-je-recruitment-2026",
-      "officialUrl": "https://rrb.indianrailways.gov.in",
-      "sourceType": null,
-      "notificationNumber": "CEN 04/2026",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "railway-railway-recruitment-board-rrb-rrb-je-notification-2026-out-4098-vacanc-2026-09",
-      "title": "RRB JE Notification 2026 (Out): 4098 Vacancies, Apply Online",
-      "organization": "Railway Recruitment Board (RRB)",
-      "sector": [
-        "RAILWAY"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [
-        "India"
-      ],
-      "isAllIndia": true,
-      "salary": null,
-      "vacancies": 4098,
-      "applicationStart": "2026-08-14",
-      "applicationEnd": "2026-09-13",
-      "status": "OPEN",
-      "sourceUrl": "https://utkarsh.com/exams/rrb-je",
-      "officialUrl": "https://utkarsh.com/exams/rrb-je",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "railway-railway-recruitment-board-railway-rrb-junior-engineer-je-online-fo-2026-09",
-      "title": "Railway RRB Junior Engineer JE Online Form 2026 for 4029 Post",
-      "organization": "Railway Recruitment Board",
-      "sector": [
-        "RAILWAY"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 4029,
-      "applicationStart": "2026-08-14",
-      "applicationEnd": "2026-09-13",
-      "status": "OPEN",
-      "sourceUrl": "https://www.sarkariresult.com/2026/railway-rrb-junior-engineer-cen-04-2026",
-      "officialUrl": "https://www.sarkariresult.com/2026/railway-rrb-junior-engineer-cen-04-2026",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "railway-railway-recruitment-board-rrb-je-apply-online-2026-online-applicat-unknown",
-      "title": "RRB JE Apply Online 2026: Online Application Process, Steps, Documents & Fees",
-      "organization": "Railway Recruitment Board",
-      "sector": [
-        "RAILWAY"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": "2026-08-14",
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.pw.live/ae-je/exams/rrb-je-apply-online",
-      "officialUrl": "https://www.pw.live/ae-je/exams/rrb-je-apply-online",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "railway-railway-recruitment-board-rrb-home-unknown",
@@ -2405,21 +1889,254 @@
       "officialUrl": "http://www.rrbapply.gov.in",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-railway-recruitment-board-bhubaneswar-railway-recuitment-board-bhubaneswar-min-unknown",
-      "title": "Railway Recuitment Board, Bhubaneswar | Ministry of Railways, Govt of India",
-      "organization": "Railway Recruitment Board, Bhubaneswar",
+      "id": "railway-railway-recruitment-board-rrb-ntpc-undergraduate-cbt-2-exam-date-2-unknown",
+      "title": "RRB NTPC Undergraduate CBT 2 Exam Date 2026 Out, Check Complete Exam Schedule",
+      "organization": "Railway Recruitment Board",
       "sector": [
         "RAILWAY"
       ],
-      "jobType": [],
+      "jobType": [
+        "CLERICAL"
+      ],
+      "qualification": "Undergraduate",
+      "requiredLevel": "BACHELOR",
+      "disciplines": [
+        "ANY"
+      ],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.adda247.com/exams/railway/rrb-ntpc-graduate-level-exam-date-2026-out",
+      "officialUrl": "https://www.adda247.com/exams/railway/rrb-ntpc-graduate-level-exam-date-2026-out",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-board-rrb-rrb-ntpc-2027-notification-expected-soon-unknown",
+      "title": "RRB NTPC 2027 Notification Expected Soon, Apply Online, Vacancy, Eligibility, Exam Date",
+      "organization": "Railway Recruitment Board (RRB)",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "CLERICAL",
+        "ADMINISTRATIVE"
+      ],
+      "qualification": "Undergraduate (12th pass) and graduate",
+      "requiredLevel": "CLASS_12",
+      "disciplines": [
+        "ANY"
+      ],
+      "location": [],
+      "isAllIndia": true,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.pw.live/railway/exams/rrb-ntpc",
+      "officialUrl": "https://www.pw.live/railway/exams/rrb-ntpc",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-board-rrb-je-apply-online-2026-rrbapply-gov-in-2026-09",
+      "title": "RRB JE Apply Online 2026 [rrbapply.gov.in], CEN 04/2026 Link Active, Candidate Login Portal, Last Date",
+      "organization": "Railway Recruitment Board",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [],
       "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": "2026-09-13",
+      "status": "OPEN",
+      "sourceUrl": "https://testbook.com/news/rrb-je-apply-online-2026-link-active",
+      "officialUrl": "https://testbook.com/news/rrb-je-apply-online-2026-link-active",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-board-rrb-je-notification-2026-vacancy-out-402-2026-09",
+      "title": "RRB JE Notification 2026 Vacancy Out, 4029 Revised Vacancy (Zone Wise), Registration Link, Exam Dates",
+      "organization": "Railway Recruitment Board",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": 4029,
+      "applicationStart": null,
+      "applicationEnd": "2026-09-13",
+      "status": "OPEN",
+      "sourceUrl": "https://testbook.com/news/rrb-je-notification-2026-27-out",
+      "officialUrl": "https://testbook.com/news/rrb-je-notification-2026-27-out",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-board-rrb-junior-engineer-je-recruitment-2026--2026-09",
+      "title": "RRB Junior Engineer JE Recruitment 2026 | Sarkari Result",
+      "organization": "Railway Recruitment Board",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": 4029,
+      "applicationStart": "2026-08-14",
+      "applicationEnd": "2026-09-13",
+      "status": "OPEN",
+      "sourceUrl": "https://sarkariresult.com.cm/rrb-je-2026",
+      "officialUrl": "https://sarkariresult.com.cm/rrb-je-2026",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-boards-rrb-rrb-je-notification-2026-out-for-3993-va-2026-09",
+      "title": "RRB JE Notification 2026 Out for 3993 Vacancies, Apply Online Starts, Download PDF",
+      "organization": "Railway Recruitment Boards (RRB)",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [
+        "Civil",
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "DMS"
+      ],
+      "location": [
+        "Around India"
+      ],
+      "isAllIndia": true,
+      "salary": null,
+      "vacancies": 3993,
+      "applicationStart": "2026-08-14",
+      "applicationEnd": "2026-09-13",
+      "status": "OPEN",
+      "sourceUrl": "https://www.careerpower.in/rrb-je.html",
+      "officialUrl": "https://www.careerpower.in/rrb-je.html",
+      "sourceType": null,
+      "notificationNumber": "CEN 04/2026",
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-board-rrb-je-apply-online-form-2026-for-4098-v-2026-09",
+      "title": "RRB JE Apply Online Form 2026 for 4098 Vacancies, Online Application Process & Form Link",
+      "organization": "Railway Recruitment Board",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": 4098,
+      "applicationStart": null,
+      "applicationEnd": "2026-09-13",
+      "status": "OPEN",
+      "sourceUrl": "https://www.engineersacademy.org/blog/rrb-je-apply-online",
+      "officialUrl": "https://www.engineersacademy.org/blog/rrb-je-apply-online",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-board-rrb-rrb-je-recruitment-2026-3993-post-apply--2026-09",
+      "title": "RRB JE Recruitment 2026 {3993 Post} Apply Online",
+      "organization": "Railway Recruitment Board (RRB)",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": 3993,
+      "applicationStart": "2026-08-14",
+      "applicationEnd": "2026-09-13",
+      "status": "OPEN",
+      "sourceUrl": "https://sarkariresult.com.im/rrb-je-recruitment",
+      "officialUrl": "https://sarkariresult.com.im/rrb-je-recruitment",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-board-bhubaneswar-railway-recruitment-board-bhubaneswar-mi-unknown",
+      "title": "Railway Recruitment Board, Bhubaneswar | Ministry of Railways, Govt of India",
+      "organization": "Railway Recruitment Board, Bhubaneswar",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [
+        "Bhubaneswar"
+      ],
       "isAllIndia": null,
       "salary": null,
       "vacancies": null,
@@ -2430,13 +2147,40 @@
       "officialUrl": "https://rrbbbs.gov.in/cen.php?prmt=TXpZPQ%3D%3D",
       "sourceType": null,
       "notificationNumber": "CEN 01/2025",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-north-central-railway-rrc-ncr-apprentice-recruitment-2026-noti-2026-08",
+      "id": "railway-rrb-alp-railway-alp-vacancy-2026-unknown",
+      "title": "Railway ALP Vacancy 2026",
+      "organization": "RRB ALP",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [
+        "TECHNICAL"
+      ],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": 11127,
+      "applicationStart": "2026-05-15",
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://www.facebook.com/Rnseducationnews/posts/railway-alp-vacancy-2026total-post-11127form-start-date-15-may-2026alpvacancy-ra/1371256744810670",
+      "officialUrl": "https://www.facebook.com/Rnseducationnews/posts/railway-alp-vacancy-2026total-post-11127form-start-date-15-may-2026alpvacancy-ra/1371256744810670",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-railway-recruitment-cell-north-central-railway-rrc-ncr-rrc-ncr-apprentice-recruitment-2026-noti-2026-08",
       "title": "RRC NCR Apprentice Recruitment 2026 Notification Out - Apply Online for 1853 Posts",
-      "organization": "North Central Railway",
+      "organization": "Railway Recruitment Cell, North Central Railway (RRC NCR)",
       "sector": [
         "RAILWAY"
       ],
@@ -2462,46 +2206,17 @@
       "officialUrl": "https://www.freejobalert.com/articles/rrc-ncr-apprentice-recruitment-2026-apply-online-for-1853-posts-3057253",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-northern-railway-railway-recruitment-cell-northern-railwa-unknown",
-      "title": "Railway Recruitment Cell Northern Railway",
-      "organization": "Northern Railway",
-      "sector": [
-        "RAILWAY"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": 4116,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://rrcnr.org",
-      "officialUrl": "https://rrcnr.org",
-      "sourceType": null,
-      "notificationNumber": "RRC/NR-05/2025/Act Apprentice",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "railway-rrc-rrcpryj-unknown",
+      "id": "railway-rrc-apprentice-rrcpryj-unknown",
       "title": "RRCPRYJ",
-      "organization": "RRC",
+      "organization": "RRC Apprentice",
       "sector": [
         "RAILWAY"
       ],
-      "jobType": [
-        "TECHNICAL"
-      ],
+      "jobType": [],
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [],
@@ -2516,13 +2231,13 @@
       "officialUrl": "https://rrcpryj.org",
       "sourceType": null,
       "notificationNumber": "RRC/NCR/Act.Apprentice 01/2026",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-rrc-wr-rrc-apprentice-unknown",
-      "title": "RRC Apprentice",
-      "organization": "RRC WR",
+      "id": "railway-railway-recruitment-cell-railway-recruitment-cell-unknown",
+      "title": "Railway Recruitment Cell",
+      "organization": "Railway Recruitment Cell",
       "sector": [
         "RAILWAY"
       ],
@@ -2543,8 +2258,8 @@
       "officialUrl": "https://www.rrc-wr.com",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "railway-railway-recruitment-cell-posting-unknown",
@@ -2568,13 +2283,13 @@
       "officialUrl": "https://www.rrccr.com/home/home",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-north-east-frontier-railway-act-apprentice-notification-unknown",
-      "title": "Act Apprentice Notification",
-      "organization": "North East Frontier Railway",
+      "id": "railway-west-central-railway-west-central-railway-unknown",
+      "title": "West Central Railway",
+      "organization": "West Central Railway",
       "sector": [
         "RAILWAY"
       ],
@@ -2583,40 +2298,47 @@
       ],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
+      "disciplines": [
+        "ANY"
+      ],
+      "location": [
+        "Jabalpur",
+        "Bhopal",
+        "Kota"
+      ],
+      "isAllIndia": false,
       "salary": null,
       "vacancies": null,
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://nfr.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C6%2C592%2C593%2C933",
-      "officialUrl": "https://nfr.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C6%2C592%2C593%2C933",
+      "sourceUrl": "https://wcr.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C7%2C288%2C1391%2C2245",
+      "officialUrl": "https://wcr.indianrailways.gov.in/view_section.jsp?lang=0&id=0%2C7%2C288%2C1391%2C2245",
       "sourceType": null,
-      "notificationNumber": "NFR/NAPS/ACT APP./2026",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-delhi-metro-rail-corporation-ltd-delhi-metro-rail-jobs-2026-apply-online--unknown",
+      "id": "railway-dmrc-delhi-metro-rail-jobs-2026-apply-online--unknown",
       "title": "Delhi Metro Rail Jobs 2026 - Apply Online DMRC Recruitment @delhimetrorail.com",
-      "organization": "Delhi Metro Rail Corporation Ltd",
+      "organization": "DMRC",
       "sector": [
         "RAILWAY"
       ],
       "jobType": [
         "OFFICER",
-        "TECHNICAL",
-        "ADMINISTRATIVE"
+        "ADMINISTRATIVE",
+        "TECHNICAL"
       ],
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [],
       "location": [
+        "DMRC",
         "Delhi"
       ],
-      "isAllIndia": false,
+      "isAllIndia": null,
       "salary": null,
       "vacancies": null,
       "applicationStart": null,
@@ -2626,13 +2348,13 @@
       "officialUrl": "https://railway.20govt.com/dmrc-delhi-metro-rail-jobs",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-delhi-metro-rail-corporation-limited-dmrc-recruitment-2026-latest-vacancies-o-unknown",
+      "id": "railway-delhi-metro-rail-corporation-limited-dmrc-dmrc-recruitment-2026-latest-vacancies-o-unknown",
       "title": "DMRC Recruitment 2026 - Latest Vacancies on August 2026",
-      "organization": "Delhi Metro Rail Corporation Limited",
+      "organization": "Delhi Metro Rail Corporation Limited (DMRC)",
       "sector": [
         "RAILWAY"
       ],
@@ -2640,7 +2362,9 @@
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [],
-      "location": [],
+      "location": [
+        "Delhi"
+      ],
       "isAllIndia": null,
       "salary": null,
       "vacancies": null,
@@ -2651,8 +2375,8 @@
       "officialUrl": "https://affairscloud.com/jobs/dmrc-recruitment",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "railway-dmrc-vacancies-unknown",
@@ -2661,9 +2385,7 @@
       "sector": [
         "RAILWAY"
       ],
-      "jobType": [
-        "OFFICER"
-      ],
+      "jobType": [],
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [
@@ -2680,8 +2402,8 @@
       "officialUrl": "https://delhimetrorail.com/pages/en/career",
       "sourceType": null,
       "notificationNumber": "DMRC/PERS/22/HR/2026 (229)",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "railway-delhi-metro-rail-corporation-dmrc-dmrc-notification-2026-check-eligibility-unknown",
@@ -2692,32 +2414,37 @@
       ],
       "jobType": [
         "TECHNICAL",
-        "OFFICER",
         "ADMINISTRATIVE",
+        "CLERICAL",
+        "OFFICER",
         "FIELD",
         "TEACHING"
       ],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
+      "disciplines": [
+        "ANY"
+      ],
+      "location": [
+        "Delhi"
+      ],
+      "isAllIndia": false,
       "salary": null,
       "vacancies": null,
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://prepp.in/dmrc-exam",
-      "officialUrl": "https://prepp.in/dmrc-exam",
+      "officialUrl": null,
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-dmrc-dmrc-careers-unknown",
+      "id": "railway-delhi-metro-rail-corporation-dmrc-careers-unknown",
       "title": "DMRC Careers",
-      "organization": "DMRC",
+      "organization": "Delhi Metro Rail Corporation",
       "sector": [
         "RAILWAY"
       ],
@@ -2738,8 +2465,58 @@
       "officialUrl": "https://delhimetrorail.com/pages/no/dmrc-careers",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-delhi-metro-rail-corporation-dmrc-welcome-to-delhi-metro-rail-corporation--unknown",
+      "title": "Welcome to Delhi Metro Rail Corporation(DMRC) | Official ...",
+      "organization": "Delhi Metro Rail Corporation (DMRC)",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://delhimetrorail.com",
+      "officialUrl": "https://delhimetrorail.com",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
+    },
+    {
+      "id": "railway-konkan-railway-konkan-railway-corporation-ltd-unknown",
+      "title": "KONKAN RAILWAY CORPORATION LTD.",
+      "organization": "Konkan Railway",
+      "sector": [
+        "RAILWAY"
+      ],
+      "jobType": [],
+      "qualification": null,
+      "requiredLevel": null,
+      "disciplines": [],
+      "location": [],
+      "isAllIndia": null,
+      "salary": null,
+      "vacancies": null,
+      "applicationStart": null,
+      "applicationEnd": null,
+      "status": "UNKNOWN_DEADLINE",
+      "sourceUrl": "https://konkanrailway.com/sites/default/files/2026-07/EMPLOYMENT_NOTIFICATION_310726_1.pdf",
+      "officialUrl": "https://konkanrailway.com/sites/default/files/2026-07/EMPLOYMENT_NOTIFICATION_310726_1.pdf",
+      "sourceType": null,
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "railway-konkan-railway-corporation-limited-krcl-krcl-recruitment-2026-out-apply-online-f-2026-08",
@@ -2755,7 +2532,9 @@
       ],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [],
+      "disciplines": [
+        "ANY"
+      ],
       "location": [
         "Konkan Railway Network"
       ],
@@ -2769,8 +2548,8 @@
       "officialUrl": "https://www.adda247.com/engineering-jobs/krcl-recruitment",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "railway-konkan-railway-corporation-limited-krcl-recruitment-2026-latest-vacancies-o-unknown",
@@ -2793,20 +2572,22 @@
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
       "sourceUrl": "https://affairscloud.com/jobs/krcl-recruitment",
-      "officialUrl": "http://www.konkanrailway.com",
+      "officialUrl": null,
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "railway-konkan-railway-employment-notification-no-co-pr-02-2026-unknown",
-      "title": "Employment Notification No. CO/PR/02/2026 Recruitment ...",
+      "id": "railway-konkan-railway-recruitment-konkan-unknown",
+      "title": "Recruitment | Konkan",
       "organization": "Konkan Railway",
       "sector": [
         "RAILWAY"
       ],
-      "jobType": [],
+      "jobType": [
+        "TECHNICAL"
+      ],
       "qualification": null,
       "requiredLevel": null,
       "disciplines": [],
@@ -2817,12 +2598,12 @@
       "applicationStart": null,
       "applicationEnd": null,
       "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://konkanrailway.com/sites/default/files/2026-07/EMPLOYMENT_NOTIFICATION_310726_1.pdf",
-      "officialUrl": "https://konkanrailway.com/sites/default/files/2026-07/EMPLOYMENT_NOTIFICATION_310726_1.pdf",
+      "sourceUrl": "https://konkanrailway.com/en/vacancy",
+      "officialUrl": "https://konkanrailway.com/en/vacancy",
       "sourceType": null,
-      "notificationNumber": "CO/PR/02/2026",
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "notificationNumber": null,
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "railway-konkan-railway-notification-konkan-unknown",
@@ -2846,35 +2627,8 @@
       "officialUrl": "https://konkanrailway.com/en/current_notification",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "railway-konkan-railway-recruitment-unknown",
-      "title": "Recruitment",
-      "organization": "Konkan Railway",
-      "sector": [
-        "RAILWAY"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": "Graduate Apprentice or Technician Apprentice",
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": "2024-08-01",
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://konkanrailway.com/en/vacancy",
-      "officialUrl": "https://konkanrailway.com/en/vacancy",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "ssc-ssc-ssc-cgl-2026-online-application-date-ext-unknown",
@@ -2898,13 +2652,13 @@
       "officialUrl": "https://www.facebook.com/riyazupp/posts/ssc-cgl-2026-online-application-date-extended/994088053252018",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "ssc-staff-selection-commission-home-staff-selection-commission-goi-unknown",
-      "title": "Home | Staff Selection Commission | GoI",
-      "organization": "Staff Selection Commission",
+      "id": "ssc-ssc-ssc-unknown",
+      "title": "SSC",
+      "organization": "SSC",
       "sector": [
         "SSC"
       ],
@@ -2923,33 +2677,8 @@
       "officialUrl": "https://ssc.gov.in",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-staff-selection-commission-apply-staff-selection-commission-goi-unknown",
-      "title": "Apply | Staff Selection Commission | GoI",
-      "organization": "Staff Selection Commission",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://ssc.gov.in/home/apply",
-      "officialUrl": "https://ssc.gov.in/home/apply",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "ssc-staff-selection-commission-ssc-ssc-chsl-apply-online-2026-application-f-unknown",
@@ -2959,14 +2688,13 @@
         "SSC"
       ],
       "jobType": [
+        "CLERICAL",
         "ADMINISTRATIVE",
-        "CLERICAL"
+        "TECHNICAL"
       ],
       "qualification": null,
       "requiredLevel": null,
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [],
       "isAllIndia": null,
       "salary": null,
@@ -2978,26 +2706,24 @@
       "officialUrl": "https://www.pw.live/ssc/exams/ssc-chsl-apply-online",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
-      "id": "ssc-staff-selection-commission-ssc-chsl-2026-notification-soon-check-el-unknown",
+      "id": "ssc-ssc-ssc-chsl-2026-notification-soon-check-el-unknown",
       "title": "SSC CHSL 2026 Notification Soon, Check Eligibility, Age Limit, Exam Dates, Pattern",
-      "organization": "Staff Selection Commission",
+      "organization": "SSC",
       "sector": [
         "SSC"
       ],
       "jobType": [
         "CLERICAL"
       ],
-      "qualification": "10+2",
+      "qualification": null,
       "requiredLevel": "CLASS_12",
-      "disciplines": [
-        "ANY"
-      ],
+      "disciplines": [],
       "location": [],
-      "isAllIndia": true,
+      "isAllIndia": null,
       "salary": null,
       "vacancies": null,
       "applicationStart": null,
@@ -3007,8 +2733,8 @@
       "officialUrl": "https://www.careerpower.in/ssc-chsl.html",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     },
     {
       "id": "ssc-staff-selection-commission-ssc-chsl-2026-notification-3000-vacancie-unknown",
@@ -3034,265 +2760,8 @@
       "officialUrl": "https://www.adda247.com/ssc-chsl",
       "sourceType": null,
       "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-staff-selection-commission-ssc-mts-notification-2026-ssc-gov-in-che-unknown",
-      "title": "SSC MTS Notification 2026 @ssc.gov.in, Check Latest Updates and Official PDF",
-      "organization": "Staff Selection Commission",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [
-        "CLERICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.adda247.com/ssc-mts",
-      "officialUrl": null,
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-staff-selection-commission-ssc-gd-notification-2026-27-revised-exam-unknown",
-      "title": "SSC GD Notification 2026-27, Revised Exam Date",
-      "organization": "Staff Selection Commission",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [
-        "UNIFORMED"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": "2026-09-30",
-      "applicationEnd": null,
-      "status": "ANNOUNCED",
-      "sourceUrl": "https://www.mahendras.org/blogs/ssc-gd-constable-notification",
-      "officialUrl": "https://www.mahendras.org/blogs/ssc-gd-constable-notification",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-ssc-ssc-gd-apply-online-2027-application-ste-unknown",
-      "title": "SSC GD Apply Online 2027: Application Steps & Latest Updates",
-      "organization": "SSC",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [
-        "UNIFORMED"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.pw.live/ssc/exams/ssc-gd-apply-online",
-      "officialUrl": "https://www.pw.live/ssc/exams/ssc-gd-apply-online",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-staff-selection-commission-ssc-je-recruitment-2026-notification-aug-unknown",
-      "title": "SSC JE Recruitment 2026, Notification (August), 3000+ Vacancy, Exam Date",
-      "organization": "Staff Selection Commission",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": "Bachelor of Engineering",
-      "requiredLevel": "BACHELOR",
-      "disciplines": [
-        "Civil",
-        "Mechanical",
-        "Electrical"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://testbook.com/ssc-je",
-      "officialUrl": "https://testbook.com/ssc-je",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-staff-selection-commission-ssc-je-recruitment-2026-check-notificati-unknown",
-      "title": "SSC JE Recruitment 2026: Check Notification, Vacancy, Selection Process, Apply Online & More",
-      "organization": "Staff Selection Commission",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": "Diploma or Degree in Civil, Electrical, or Mechanical engineering",
-      "requiredLevel": "DIPLOMA",
-      "disciplines": [
-        "Civil Engineering",
-        "Electrical Engineering",
-        "Mechanical Engineering"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.engineersacademy.org/blog/ssc-je-2026-recruitment-notification-exam-pattern",
-      "officialUrl": "https://www.engineersacademy.org/blog/ssc-je-2026-recruitment-notification-exam-pattern",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-staff-selection-commission-ssc-je-apply-online-2026-registration-ap-unknown",
-      "title": "SSC JE Apply Online 2026: Registration, Application Form, Fee & Steps to Apply",
-      "organization": "Staff Selection Commission",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.pw.live/ae-je/exams/ssc-je-apply-online",
-      "officialUrl": "https://www.pw.live/ae-je/exams/ssc-je-apply-online",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-ssc-ssc-je-2026-27-notification-exam-pattern-unknown",
-      "title": "SSC JE 2026-27 Notification: Exam Pattern, Syllabus, Answer Keys",
-      "organization": "SSC",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [
-        "TECHNICAL"
-      ],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": {
-        "text": "Pay scale of Rs. 35,400–1,12,400 per month as per 7th CPC, with approximate in‑hand salary of Rs. 44,000‑52,000 per month (including DA, HRA and other allowances).",
-        "minMonthly": 35400
-      },
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.madeeasy.in/exams/ssc-je",
-      "officialUrl": "https://www.madeeasy.in/exams/ssc-je",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-ssc-instagram-unknown",
-      "title": "Instagram",
-      "organization": "SSC",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [
-        "CLERICAL"
-      ],
-      "qualification": "10TH PASS",
-      "requiredLevel": "CLASS_10",
-      "disciplines": [
-        "ANY"
-      ],
-      "location": [],
-      "isAllIndia": null,
-      "salary": {
-        "text": "₹ 42,000/- SALARY",
-        "minMonthly": 42000
-      },
-      "vacancies": 25000,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.instagram.com/reel/DYROyo7zq-v?hl=en",
-      "officialUrl": "https://www.instagram.com/reel/DYROyo7zq-v?hl=en",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
-    },
-    {
-      "id": "ssc-ssc-ssc-selection-post-phase-14-notification-unknown",
-      "title": "SSC Selection Post Phase 14 Notification 2026 Form Fill Up || SSC Selection Post Apply Kaise Kare",
-      "organization": "SSC",
-      "sector": [
-        "SSC"
-      ],
-      "jobType": [],
-      "qualification": null,
-      "requiredLevel": null,
-      "disciplines": [],
-      "location": [],
-      "isAllIndia": null,
-      "salary": null,
-      "vacancies": null,
-      "applicationStart": null,
-      "applicationEnd": null,
-      "status": "UNKNOWN_DEADLINE",
-      "sourceUrl": "https://www.youtube.com/watch?v=diJdq7zcCB8",
-      "officialUrl": "https://www.youtube.com/watch?v=diJdq7zcCB8",
-      "sourceType": null,
-      "notificationNumber": null,
-      "discoveredAt": "2026-08-26",
-      "lastVerifiedAt": "2026-08-26T11:52:13Z"
+      "discoveredAt": "2026-08-27",
+      "lastVerifiedAt": "2026-08-27T08:55:40Z"
     }
   ]
 }
